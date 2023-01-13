@@ -1,3 +1,4 @@
 this is a test
 and now i added another line (whilst in testing branch)git
 and a third line
+minor to get away from the merge
